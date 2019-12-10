@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+  printf("this is my first github code: hello world");
+  return 0;
+}
